@@ -1,0 +1,6 @@
+export const Data=[
+    {id:1,name:'susansmith',job:'webdeveloper',image:'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',text:"I'm baby megging stweehealthgoth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up . Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed fourdollartoast everyday carry",},
+{id:2,name:'annajohnson',job:'webdesigner',image:'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg',text:'Helvetica artisankin folk thunder cat slumber sexualblue  bottle.Disrupt glossier gastropub deepvvice franzenhe llof brook lyntweee namelpin fashionaxe.photo booth jean short sartisannarwhal.',},
+{id:3,name:'peterjones',job:'intern',image:'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',text:'Srirachaliterally flexitarian irony,vapemar faunicorn.Glossier tattoo ed8-bit,fixiewaist coat offal activated charcoals low-carbmar fahell of pabstraclette post-ironicj ianbingswag.',},
+{id:4,name:'billanderson',job:'theboss',image:'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',text:'Edisonbulbput abirdoni thumblebrag,marfapok pokheirloomfashion axecray stump town venmo actually seitan. VHSfarm-to-tables chlitz,edison bulbpop-up3wolf moon totebag streetart shabbychic.',},
+]
